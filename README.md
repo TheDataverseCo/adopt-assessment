@@ -2,9 +2,8 @@
 
 A comprehensive web-based assessment tool for evaluating organizational AI readiness across five critical pillars of the ADOPT framework.
 
-**Live Assessment:** [https://mananb77.github.io/adopt-assessment/](https://mananb77.github.io/adopt-assessment/)
-
-© 2025 Berkeley AI Leadership Accelerator
+**Live Assessment:** 
+© 2026 
 
 ---
 
