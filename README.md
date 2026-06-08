@@ -24,7 +24,7 @@ The ADOPT framework provides a holistic approach to assessing and building AI re
 ### Online Access
 
 1. **Visit the live assessment:**
-   [https://mananb77.github.io/adopt-assessment/](https://mananb77.github.io/adopt-assessment/)
+   
 
 2. **Read the welcome screen** to understand the five ADOPT pillars
 
@@ -103,7 +103,7 @@ The downloadable report includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mananb77/adopt-assessment.git
+git clone https://github.com/xx/adopt-assessment.git
 cd adopt-assessment
 
 # Install dependencies
@@ -201,9 +201,6 @@ This is a project of the Berkeley AI Leadership Accelerator. For questions or co
 
 ## 🔗 Links
 
-- **Live Assessment:** [https://mananb77.github.io/adopt-assessment/](https://mananb77.github.io/adopt-assessment/)
-- **GitHub Repository:** [https://github.com/mananb77/adopt-assessment](https://github.com/mananb77/adopt-assessment)
-- **Issues & Feedback:** [https://github.com/mananb77/adopt-assessment/issues](https://github.com/mananb77/adopt-assessment/issues)
 
 ---
 
